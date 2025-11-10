@@ -36,16 +36,13 @@ Map over data arrays and display dynamic components
 
 🚀 Live Demo
 
-🔗 View Live Project
- (Replace with your Netlify link after deployment)
+🔗 View Live Project  (https://sweet-syrniki-65bf72.netlify.app/)
 
 🧑‍💻 Author
 
 Karur Priya
 
-GitHub
 
-LinkedIn
 
 
 
